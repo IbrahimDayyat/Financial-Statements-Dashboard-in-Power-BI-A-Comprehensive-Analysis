@@ -1,0 +1,2 @@
+# Financial-Statements-Dashboard-in-Power-BI-A-Comprehensive-Analysis
+This Power BI dashboard presents financial statements for GL Retail Inc., integrating the balance sheet and income statement with key metrics like current ratio, debt ratio, and gross margin ratio. It features interactive visualizations to track financial performance over time, helping stakeholders make data-driven decisions at a glance.
